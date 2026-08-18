@@ -145,24 +145,7 @@ Some of the main areas I worked with were:
 * Working with Linux-based infrastructure
 * Managing a project using Git
 
----
 
-## Future Improvements
-
-Possible improvements include:
-
-* [ ] Improve authentication and authorization
-* [ ] Add automated tests
-* [ ] Improve input validation
-* [ ] Improve error handling
-* [ ] Add a REST API
-* [ ] Improve responsive design
-* [ ] Add better database documentation
-* [ ] Containerize the application with Docker
-* [ ] Add CI/CD
-* [ ] Improve security practices
-
----
 
 ## Author
 
